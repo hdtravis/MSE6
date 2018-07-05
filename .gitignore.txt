@@ -1,6 +1,6 @@
 .DS_Store
 
-
+# USE THIS FILE FOR EVERY PROJECT GOING TO APP STORE
 #pod files to be ignored
 
 # Xcode
